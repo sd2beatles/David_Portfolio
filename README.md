@@ -37,6 +37,7 @@ Part 2 specializes in constructing a model with chosen factors from part 1 for c
 
 # [Project 3: Naver Sentimental Movie](https://github.com/sd2beatles/Brazil_Ecomerce)
 
+### 1) Intorudciton 
 This is a movie review dataset in the Korean language. Reviews were scraped from Naver Movies.
 The dataset construction is based on the method noted in Large movie review dataset from web scraping 
 
@@ -46,3 +47,11 @@ The dataset construction is based on the method noted in Large movie review data
     document: The actual review
     label: The sentiment class of the review. (0: negative, 1: positive)
     Columns are delimited with tabs (i.e., .tsv format; but the file extension is .txt for easy access for novices)
+
+### 2)Characteristics
+
+   - All reviews are shorter than 140 characters
+   - Each sentiment class is sampled equally (i.e., random guess yields 50% accuracy)
+        100K negative reviews (originally reviews of ratings 1-4)
+        100K positive reviews (originally reviews of ratings 9-10)
+        Neutral reviews (originally reviews of ratings 5-8) are excluded
