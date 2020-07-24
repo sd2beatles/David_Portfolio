@@ -5,7 +5,7 @@ Example Data Science Portfolio
 # [Project 1: Bankruptcy Prediction: Project Overview](https://github.com/sd2beatles/portfolio_polish_bankruptcy)
 
 Data Science Portfolio (1) Bankruptcy-prediction-in-Polish-Comapnies
-1) Data Summary
+### 1) Data Summary
 
 Based on the certain measures (around 64) we predict the health of the company like whether it will go ahead or will it go Bankrupt
 
@@ -13,11 +13,11 @@ Bankruptcy prediction is the art of predicting bankruptcy and various measures o
 
 Detailed infomration regarding the data can be checked out from the following website. https://www.kaggle.com/squintrook/forecasting-bankrupts-with-ann
 
-2) Goal and Obejective
+### 2) Goal and Obejective
 
 To construct a model with the fewest input factors but higher accuracy.
 
-3) Structures
+### 3) Structures
 
 The major part of project 1 focuses on intensive analysis of each given factor. Also, the data itself is highly susceptible to outliers, which makes me spend a great deal of time filtering out those extreme values.
 
