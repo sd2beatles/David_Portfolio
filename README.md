@@ -35,7 +35,7 @@ Part 2 specializes in constructing a model with chosen factors from part 1 for c
 <img src='https://user-images.githubusercontent.com/53164959/86457594-df59c800-bd5e-11ea-8f9f-7bd8d29a9ab4.png' alt="Drawing" style="width: 50px;"/>
 
 
-# [Project 3: Naver Sentimental Movie](https://github.com/sd2beatles/Brazil_Ecomerce)
+# [Project 3: Naver Sentimental Movie]
 
 ### 1) Intorudciton 
 This is a movie review dataset in the Korean language. Reviews were scraped from Naver Movies.
@@ -55,3 +55,5 @@ The dataset construction is based on the method noted in Large movie review data
         100K negative reviews (originally reviews of ratings 1-4)
         100K positive reviews (originally reviews of ratings 9-10)
         Neutral reviews (originally reviews of ratings 5-8) are excluded
+  
+
