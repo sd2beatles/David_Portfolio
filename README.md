@@ -4,7 +4,7 @@ Example Data Science Portfolio
 
 # [Project 1: Bankruptcy Prediction: Project Overview](https://github.com/sd2beatles/portfolio_polish_bankruptcy)
 
-Data Science Portfolio (1) Bankruptcy-prediction-in-Polish-Comapnies
+
 ### 1) Data Summary
 
 Based on the certain measures (around 64) we predict the health of the company like whether it will go ahead or will it go Bankrupt
