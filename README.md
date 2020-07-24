@@ -23,7 +23,7 @@ The major part of project 1 focuses on intensive analysis of each given factor. 
 
 Part 2 specializes in constructing a model with chosen factors from part 1 for classification. With the 8 chosen factors, I have achieved an accuracy of 99%.
 
-
+![image](https://user-images.githubusercontent.com/53164959/88418989-5b57a500-ce1f-11ea-9d1b-2e68fe95210d.png)
 
 
 
