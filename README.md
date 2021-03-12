@@ -57,26 +57,7 @@ Detailed infomration regarding the data can be checked out from the following we
 Python(version 3.7.0) and Postgresql
 
 
-# [Project 5: Naver Sentimental Movie] 
 
-### 1) Intorudciton 
-This is a movie review dataset in the Korean language. Reviews were scraped from Naver Movies.
-The dataset construction is based on the method noted in Large movie review dataset from web scraping 
-
-- Each file is consisted of three columns: id, document, label
-
-    id: The review id, provieded by Naver
-    document: The actual review
-    label: The sentiment class of the review. (0: negative, 1: positive)
-    Columns are delimited with tabs (i.e., .tsv format; but the file extension is .txt for easy access for novices)
-
-### 2)Characteristics
-
-   - All reviews are shorter than 140 characters
-   - Each sentiment class is sampled equally (i.e., random guess yields 50% accuracy)
-        100K negative reviews (originally reviews of ratings 1-4)
-        100K positive reviews (originally reviews of ratings 9-10)
-        Neutral reviews (originally reviews of ratings 5-8) are excluded
   
 # [Project 5: Human Activity](https://github.com/sd2beatles/humanActivity)
 
