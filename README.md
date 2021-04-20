@@ -8,11 +8,11 @@
 
 ### 1. Introduction (시작)
 
-The covid-19, a catastrophic event around the world,  swapped the financial market, bringing out an unprecedented level of chaos to all parties in the market. To reduce the huge impact on ordinary citizens, the federal government decided to lower its real interest rate up to 0.0%. The initial aim was to bring vitality to the entire economy, but on the other side, this leads in turn to harm the constructive economy in some manner. One of the adversities is to allow endurance to companies that were supposed to have been expelled from the market. Just think how horrible it is for 'naive' people to invest their funds into the 'zombie' firms. 
+The covid-19, a catastrophic event around the world,  swapped the financial market, bringing out an unprecedented level of chaos to all parties in the market. To reduce the huge impact on ordinary citizens, the federal government decided to lower its real interest rate up to 0.0%. The initial aim was to bring vitality to the entire economy, but on the other side, this leads in turn to harm the constructive economy in some manner. One of the adversities is to allow endurance to companies that were supposed to have been expelled from the market. Just think how horrible it is for 'naive' people to invest their funds into companies that tneds to limip along and are unable to earn enough to dig out from under thier obligations. This gives me the motivation to build a machine learning model to classify the group into two statuses either distressed or running. 
 
 코로나로 인해 시장이 제 역할을 하지 못하고 혼돈의 시간을 보내고 있었으며, 미국 중앙은행은 서민들의 막대한 피해를 줄이고자 실질 금리를 0% 까지 내리는 급단적인 대처방안을 내놓게 됩니다. 이에 따라 시장의 성장성이 이미 멈춰서 퇴출에 놓인 회사들은 낮은 이자율로 인해서 수명을 연장을 할 수 있게 되었습니다. 이러한 재무적으로 건강치 못한 회사들에 투자하게 된다면, 모든 피해들은 고스란히  '순진한'투자들에게 돌아가게 됩니다. 그렇다면 이러한 회사들을 완전히 배제할 수는 없겠지만, 어느 수준까지는 머신러닝 기법의 알고리즘을 통해서 거를 수 있지는 않을까하는 생각에 이 프로젝트를 진행하게 됩니다. 
 
-
+Financial Services Commissions issues and updates the list of companies that have a high chance of being distressed and therefore need supervising. Currently, all financial information can not directly accessible through public API. We need to rely on the web-scraping tools to gather all information from Naver, the top flatform site in South Korea. 
 
 금융위원회는 지속적으로 금융거래가 정지된 회사와 관리종목들을 지속적으로 모든 투자들에게 제공하고 있습니다.이러한 목록에 속한 종목들과 재무제표정보를 네이버 금융에서 얻을 수 있습니다. 다만 네이버는 금융정보에 대한 api를 제공하지 않으므로, 모든 종목들을 web-scaping(웹크롤링)하도록 하겠습니다. 
 
@@ -20,6 +20,9 @@ The covid-19, a catastrophic event around the world,  swapped the financial mark
 
 
 ### 2. Sections (목록)
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/53164959/115359896-1324b200-a1fa-11eb-8019-aa162be2a376.png)
