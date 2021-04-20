@@ -6,7 +6,7 @@
 :raised_hand: Still in progress
 
 
-### 1. Introduction (시작)
+### 1. Introduction 
 
 The covid-19, a catastrophic event around the world,  swapped the financial market, bringing out an unprecedented level of chaos to all parties in the market. To reduce the huge impact on ordinary citizens, the federal government decided to lower its real interest rate up to 0.0%. The initial aim was to bring vitality to the entire economy, but on the other side, this leads in turn to harm the constructive economy in some manner. One of the adversities is to allow endurance to companies that were supposed to have been expelled from the market. Just think how horrible it is for 'naive' people to invest their funds into companies that tneds to limip along and are unable to earn enough to dig out from under thier obligations. This gives me the motivation to build a machine learning model to classify the group into two statuses either distressed or running. 
 
