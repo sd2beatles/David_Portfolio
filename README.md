@@ -2,6 +2,8 @@
 
 Example Data Science Portfolio
 
+
+
 # [Project 1: Bankruptcy Prediction: Project Overview](https://github.com/sd2beatles/portfolio_polish_bankruptcy)
 
 
