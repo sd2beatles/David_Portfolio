@@ -3,7 +3,7 @@
 
 
 # [Project 1: Distressed Companies Classification:Project Overview](https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE)
-Still in progress
+:raised_hand: Still in progress
 
 
 ### 1. Introduction (시작)
