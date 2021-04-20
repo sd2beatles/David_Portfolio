@@ -2,13 +2,13 @@
 
 
 
-#[Project 1: Korean Bankruptcy Prediction:Project Overview] (https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE)
+# [Project 1: Korean Bankruptcy Prediction:Project Overview] (https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE)
 Still in progress
 
 -
 
 
-# [Project 1: Bankruptcy Prediction: Project Overview](https://github.com/sd2beatles/portfolio_polish_bankruptcy)
+# [Project 2: Bankruptcy Prediction: Project Overview](https://github.com/sd2beatles/portfolio_polish_bankruptcy)
 
 
 ### 1) Data Summary
@@ -32,7 +32,7 @@ Part 2 specializes in constructing a model with chosen factors from part 1 for c
 ![image](https://user-images.githubusercontent.com/53164959/88418989-5b57a500-ce1f-11ea-9d1b-2e68fe95210d.png)
 
 
-# [Project 2: Data Analysis For Brazil E-commerce: Project Overview](https://github.com/sd2beatles/Brazil_Ecomerce)
+# [Project 3: Data Analysis For Brazil E-commerce: Project Overview](https://github.com/sd2beatles/Brazil_Ecomerce)
 
 - Prepared a variety of charts to help merketers to handle with some of issues the company has experienced.
 - Data was retrieved from Kaggle. The link is as follows;  [https://www.kaggle.com/olistbr/brazilian-ecommerce]
@@ -40,7 +40,7 @@ Part 2 specializes in constructing a model with chosen factors from part 1 for c
 
 <img src='https://user-images.githubusercontent.com/53164959/86457594-df59c800-bd5e-11ea-8f9f-7bd8d29a9ab4.png' alt="Drawing" style="width: 50px;"/>
 
-# [Project 3:Log Data Analysis(Excessive Use of SQL)](https://github.com/sd2beatles/log_data_analysis)
+# [Project 4:Log Data Analysis(Excessive Use of SQL)](https://github.com/sd2beatles/log_data_analysis)
 
 
 ![image](https://user-images.githubusercontent.com/53164959/88487467-4c5c2880-cfc0-11ea-8d4d-05aad5cf29bb.png)
