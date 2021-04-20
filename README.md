@@ -1,6 +1,5 @@
 ## David_Portfolio
 
-Example Data Science Portfolio
 
 
 
