@@ -2,6 +2,11 @@
 
 
 
+#[Project 1: Korean Bankruptcy Prediction:Project Overview] (https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE)
+Still in progress
+
+-
+
 
 # [Project 1: Bankruptcy Prediction: Project Overview](https://github.com/sd2beatles/portfolio_polish_bankruptcy)
 
