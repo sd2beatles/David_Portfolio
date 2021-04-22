@@ -39,7 +39,7 @@ Financial Services Commissions issues and updates the list of companies that hav
 
 
 # [Project 2: Bankruptcy Prediction: Project Overview](https://github.com/sd2beatles/portfolio_polish_bankruptcy)
-:thumbsup: Completed
+:thumbsup: Complete
 
 ### 1) Data Summary
 
@@ -63,7 +63,7 @@ Part 2 specializes in constructing a model with chosen factors from part 1 for c
 
 
 # [Project 3: Data Analysis For Brazil E-commerce: Project Overview](https://github.com/sd2beatles/Brazil_Ecomerce)
-:thumbsup: Completed
+:thumbsup: Complete
 
 
 - Prepared a variety of charts to help merketers to handle with some of issues the company has experienced.
@@ -98,7 +98,7 @@ Python(version 3.7.0) and Postgresql
 
   
 # [Project 5: Human Activity](https://github.com/sd2beatles/humanActivity)
-:thumbsup: Completed
+:thumbsup: Complete
 
 ![image](https://user-images.githubusercontent.com/53164959/88954047-c0eeda00-d2d4-11ea-9514-f4352d265a7c.png)
 
