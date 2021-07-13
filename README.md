@@ -4,31 +4,74 @@
 
 
 # [Project 1: Distressed Companies Classification:Project Overview](https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE)
-:raised_hand: Still in progress
+:thumbsup: complete
+
+
+
+
 
 
 ### 1. Introduction 
 
-The covid-19, a catastrophic event around the world,  swapped the financial market, bringing out an unprecedented level of chaos to all parties in the market. To reduce the huge impact on ordinary citizens, the federal government decided to lower its real interest rate up to 0.0%. The initial aim was to bring vitality to the entire economy, but on the other side, this leads in turn to harm the constructive economy in some manner. One of the adversities is to allow endurance to companies that were supposed to have been expelled from the market. This gives me a motivation to build a machine learning model to classify the group into two statuses either distressed or running. This report is an empirical study of bankruptcy prediction based on a real data set with a variety 
-of methods run to improve the performance.
+The covid-19, a catastrophic event around the world,  swapped the financial market, bringing out an unprecedented level of chaos to it.To minimize the huge impact on every part of econonmy,the federal government immediately decided to lower its real interest rate up to 0.0%. The initial aim was to bring vitality to the entire economy, but on the other side, this caues many unwanted problmes. One of the adversities is to allow endurance  to companies that were supposed to have been expelled from the market. Just think how horrible it is for 'naive' people to invest their funds into companies that tneds to limip along and are unable to earn enough to dig out from under thier obligations. This gives me the motivation to build a machine learning model to classify the group into two statuses either distressed or running. 
 
-More details are provided in the uploaded project proposal. 
+More details are provided in the project proposal and check out the linked below.
 
-
-
-
-### 2. Sections (목록)
+https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE/blob/main/analysis/project%20propsal.pdf
 
 
+### 2. Requirements
 
 
+- Python 3.6+
+- pykrx  (collecting information on the companies listed on the stock exchange in South Korea)
+- Wokrs on Linux(Ubuntu)
+- Internet connection
 
-![image](https://user-images.githubusercontent.com/53164959/115359896-1324b200-a1fa-11eb-8019-aa162be2a376.png)
+### 3. Steps to Collect Data
+
+First, we need to obtain the list of companies that are either currently or ceased to be listed on the stock exchange. All the lists can be obtained through pykrx and NAVER. Make sure that you have  pykrx library installed in advance. 
+
+Second, the acquisition of the unique code for each firm is now followed by sending a valid access token in the request header.  
+Apparently, the first two steps look a little complicated, but you can All the information can be automatically created by entering the following code in your terminal. The file containing a name and its unique conde is to be created in the designated path. 
 
 
+```unix
+python loadCompanyList.py --key auth-token --output output-path 
+```
+
+Lastly, all the finanacial information of the listed comapnies are stored as the separate file. 
+
+```unix
+python loadData.py --key auth-token --input file_path_containing_code --output file_path_storing_financial_summary 
+```
+
+### 4. Preprocessing Data and Exploratory Data Analysis 
+
+For our classifiers to work, we need to feed data into a format that could be computed upon. Right after the transformation, we need to gain a much deeper understanding of the overall picture of the financial structure of companies.  All the codes to run the tasks are witten in the Jupiter notebook.  
+
+https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE/blob/main/analysis/Preprocessing%2CDataAnalysis%2CCharts.ipynb
+
+![image](https://user-images.githubusercontent.com/53164959/125382591-e20ae680-e3d0-11eb-9178-8f64042721fd.png)
 
 
-![image](https://user-images.githubusercontent.com/53164959/115405119-ed62d180-a228-11eb-960d-b591e57a8c2b.png)
+### 5. Machine Learing Algorithms Used for The Classification 
+
+- DBSCAN ( removing outliers) 
+- Isolaton Forest ( removing outliers)
+- PCA (dimesional reduction)
+- Logistic Regression (classification)
+- Kernal Support Vector Machine(classfication)
+- K-nearest Classifier(classification)
+- Random Forest(classfication)
+- Naive Bayes(classfication)
+- Light GBM(classfication)
+
+### 6. Final Report
+
+https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE/blob/main/analysis/Final%20Report.pdf
+
+
 
 
 
