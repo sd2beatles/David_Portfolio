@@ -36,7 +36,7 @@ https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE/blob/main/analysis/pr
 First, we need to obtain the list of companies that are either currently or ceased to be listed on the stock exchange. All the lists can be obtained through pykrx and NAVER. Make sure that you have  pykrx library installed in advance. 
 
 Second, the acquisition of the unique code for each firm is now followed by sending a valid access token in the request header.  
-Apparently, the first two steps look a little complicated, but you can All the information can be automatically created by entering the following code in your terminal. The file containing a name and its unique conde is to be created in the designated path. 
+Apparently, the first two steps look a little complicated, but all the information can be automatically acquired by entering the following code in your terminal. Double check if the file containing a name and its unique code is created in the designated path. 
 
 
 ```unix
