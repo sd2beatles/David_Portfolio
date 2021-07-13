@@ -13,9 +13,12 @@
 
 ### 1. Introduction 
 
-The covid-19, a catastrophic event around the world,  swapped the financial market, bringing out an unprecedented level of chaos to it.To minimize the huge impact on every part of econonmy,the federal government immediately decided to lower its real interest rate up to 0.0%. The initial aim was to bring vitality to the entire economy, but on the other side, this caues many unwanted problmes. One of the adversities is to allow endurance  to companies that were supposed to have been expelled from the market. Just think how horrible it is for 'naive' people to invest their funds into companies that tneds to limip along and are unable to earn enough to dig out from under thier obligations. This gives me the motivation to build a machine learning model to classify the group into two statuses either distressed or running. 
+The covid-19, a catastrophic event around the world,  swapped the financial market, bringing out an unprecedented level of chaos to it.To minimize the huge impact on every part of econonmy,the federal government immediately decided to lower its real interest rate up to 0.0%. The initial aim was to bring vitality to the entire economy, but on the other side, this caues many unwanted problmes. One of the adversities is to allow endurance  to companies that were supposed to have been expelled from the market. The highly leveraged firms should keep afloat in the ‘sea’ for temporary but are  more likely to be the shock ‘amplifiers’ if the central bank keep the redemption closed. The real 
+problems kicked in as disaster relief was made to all citizens regardless of their income level. Even though many households lived off the temporary subsidies, a considerable portion of the support went to the financial market. The real problem comes along with it. According to the research paper issued by Hana Bank in South Korea, it reports that those whose average of period of investing is less than 6 months lost a half of their initial deposits and almost 60 % of 
+them have not used the financial statements for their investing decisions. This gives me a motivation to build a machine learning model which classify a company into two 
+statuses either distressed or running.
 
-More details are provided in the project proposal and check out the linked below.
+More details on problems statements and methodologies are provided in the project proposal and check out the linked below.
 
 https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE/blob/main/analysis/project%20propsal.pdf
 
@@ -70,12 +73,6 @@ https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE/blob/main/analysis/Pr
 ### 6. Final Report
 
 https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE/blob/main/analysis/Final%20Report.pdf
-
-
-
-
-
-
 
 
 
