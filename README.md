@@ -12,7 +12,7 @@
 The covid-19, a catastrophic event around the world,  swapped the financial market, bringing out an unprecedented level of chaos to all parties in the market. To reduce the huge impact on ordinary citizens, the federal government decided to lower its real interest rate up to 0.0%. The initial aim was to bring vitality to the entire economy, but on the other side, this leads in turn to harm the constructive economy in some manner. One of the adversities is to allow endurance to companies that were supposed to have been expelled from the market. This gives me a motivation to build a machine learning model to classify the group into two statuses either distressed or running. This report is an empirical study of bankruptcy prediction based on a real data set with a variety 
 of methods run to improve the performance.
 
-More details can be checked through the uploaded project proposal. 
+More details are provided in the uploaded project proposal. 
 
 
 
