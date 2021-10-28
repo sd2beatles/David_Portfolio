@@ -26,10 +26,10 @@ https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE/blob/main/analysis/pr
 ### 2. Requirements
 
 
-- Python 3.6+
+- Python 3.6+ 
+- pytorch
 - pykrx  (collecting information on the companies listed on the stock exchange in South Korea)
 - Wokrs on Linux(Ubuntu)
-- Internet connection
 
 ### 3. Steps to Collect Data
 
