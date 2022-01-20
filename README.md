@@ -111,7 +111,7 @@ Python(version 3.7.0) and Postgresql
 
 
 
-# [Project 3: Bankruptcy Prediction: Project Overview](https://github.com/sd2beatles/portfolio_polish_bankruptcy)
+# [Project 4: Bankruptcy Prediction: Project Overview](https://github.com/sd2beatles/portfolio_polish_bankruptcy)
 :thumbsup: Complete
 
 ### 1) Data Summary
