@@ -129,7 +129,7 @@ https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE/blob/main/analysis/Fi
 
 
 
-# [Project 2: Data Analysis For Brazil E-commerce: Project Overview](https://github.com/sd2beatles/Brazil_Ecomerce)
+# [Project 3: Data Analysis For Brazil E-commerce: Project Overview](https://github.com/sd2beatles/Brazil_Ecomerce)
 :thumbsup: Complete
 
 
@@ -187,7 +187,7 @@ Part 2 specializes in constructing a model with chosen factors from part 1 for c
 ![image](https://user-images.githubusercontent.com/53164959/88418989-5b57a500-ce1f-11ea-9d1b-2e68fe95210d.png)
 
   
-# [Project 4: Human Activity](https://github.com/sd2beatles/humanActivity)
+# [Project 5: Human Activity](https://github.com/sd2beatles/humanActivity)
 :thumbsup: Complete
 
 ![image](https://user-images.githubusercontent.com/53164959/88954047-c0eeda00-d2d4-11ea-9514-f4352d265a7c.png)
