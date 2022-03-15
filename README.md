@@ -1,6 +1,6 @@
 ## David_Portfolio
 
-# [Project 1: 학원 수강생 관련 데이터 생성/적재/모델링 (전과정)](https://github.com/sd2beatles/Student_transaction)
+# [Project 1: 학원 수강생 관련 데이터 생성/적재/분석/모델링 (전과정)](https://github.com/sd2beatles/Student_transaction)
 :thumbsup: complete
 
 ## 1) Objective
