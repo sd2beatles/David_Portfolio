@@ -1,11 +1,13 @@
 ## David_Portfolio
 
+# [Project 1: 학원 수강생 관련 데이터 생성/적재/모델링:Data Competition](https://github.com/sd2beatles/Sale-Prediction)
+
+이번 프로젝트는 과거의 실무적인 경험을 바탕으로 만든 
 
 
 
 
-
-# [Project 1: Sale-Prediction:Data Competition](https://github.com/sd2beatles/Sale-Prediction)
+# [Project 2: Sale-Prediction:Data Competition](https://github.com/sd2beatles/Sale-Prediction)
 
 :thumbsup: complete
 
