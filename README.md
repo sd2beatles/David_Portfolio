@@ -56,7 +56,7 @@ mysql -h endpoint -P port_number -u masteruser -p
 
 
 
-# [Project 2: Distressed Companies Classification:Project Overview](https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE)
+# [Project 3: Distressed Companies Classification:Project Overview](https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE)
 :thumbsup: complete
 
 
@@ -132,7 +132,7 @@ https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE/blob/main/analysis/Fi
 
 
 
-# [Project 3: Data Analysis For Brazil E-commerce: Project Overview](https://github.com/sd2beatles/Brazil_Ecomerce)
+# [Project 4: Data Analysis For Brazil E-commerce: Project Overview](https://github.com/sd2beatles/Brazil_Ecomerce)
 :thumbsup: Complete
 
 
@@ -142,7 +142,7 @@ https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE/blob/main/analysis/Fi
 
 <img src='https://user-images.githubusercontent.com/53164959/86457594-df59c800-bd5e-11ea-8f9f-7bd8d29a9ab4.png' alt="Drawing" style="width: 50px;"/>
 
-# [Project 4:Log Data Analysis(Excessive Use of SQL)](https://github.com/sd2beatles/log_data_analysis)
+# [Project 5:Log Data Analysis(Excessive Use of SQL)](https://github.com/sd2beatles/log_data_analysis)
 :thumbsup: Complete
 
 ![image](https://user-images.githubusercontent.com/53164959/88487467-4c5c2880-cfc0-11ea-8d4d-05aad5cf29bb.png)
@@ -166,7 +166,7 @@ Python(version 3.7.0) and Postgresql
 
 
 
-# [Project 4: Bankruptcy Prediction: Project Overview](https://github.com/sd2beatles/portfolio_polish_bankruptcy)
+# [Project 6: Bankruptcy Prediction: Project Overview](https://github.com/sd2beatles/portfolio_polish_bankruptcy)
 :thumbsup: Complete
 
 ### 1) Data Summary
@@ -190,7 +190,7 @@ Part 2 specializes in constructing a model with chosen factors from part 1 for c
 ![image](https://user-images.githubusercontent.com/53164959/88418989-5b57a500-ce1f-11ea-9d1b-2e68fe95210d.png)
 
   
-# [Project 5: Human Activity](https://github.com/sd2beatles/humanActivity)
+# [Project 7: Human Activity](https://github.com/sd2beatles/humanActivity)
 :thumbsup: Complete
 
 ![image](https://user-images.githubusercontent.com/53164959/88954047-c0eeda00-d2d4-11ea-9514-f4352d265a7c.png)
