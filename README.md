@@ -140,7 +140,7 @@ statuses either distressed or running.
 
 More details on problems statements and methodologies are provided in the project proposal and check out the linked below.
 
-https://github.com/sd2beatles/DATA-SCIENCE-PROJECT_FINANCE/blob/main/analysis/project%20propsal.pdf
+
 
 
 ### 2. Requirements
